@@ -3,7 +3,7 @@
 현재 배포 버전: **1.4.9.48** · 2026-10-05  
 원본 녹화 보조 프로그램: **1.4.9.45**
 
-[설치용 확장프로그램 + 소스 코드 + 녹화 보조 프로그램 ZIP 다운로드](./All-IN-ONE-media-stability.zip?raw=true)
+[설치용 확장프로그램 + 소스 코드 + 녹화 보조 프로그램 ZIP 다운로드](https://raw.githubusercontent.com/alice11182473-lang/chzzk-all-in-one/main/All-IN-ONE-media-stability.zip)
 
 ## 확장 설치 및 업데이트
 
