@@ -5,7 +5,17 @@
 
 [설치용 확장프로그램 + 소스 코드 + 녹화 보조 프로그램 ZIP 다운로드](https://raw.githubusercontent.com/alice11182473-lang/chzzk-all-in-one/main/All-IN-ONE-media-stability.zip)
 
-## 확장 설치 및 업데이트
+## 모바일용 통나무 시험판
+
+안드로이드 Quetta용 **모바일 통나무 1.0.0 시험판**을 PC용과 별도로 배포합니다.
+
+- [모바일 ZIP 다운로드](https://raw.githubusercontent.com/alice11182473-lang/chzzk-all-in-one/main/Chzzk-Mobile-Power-1.0.0.zip)
+- [모바일 설치 방법과 확인 사항](./MOBILE-INSTALL.txt)
+- 보유량 표시, 서버가 발급한 1시간 보상 자동 수령, 적립 상태 구분, 터치 설정·수령 기록을 제공합니다.
+- **통나무 기능 전용**이며 PC용 녹화·화질·자동 열기 기능은 포함하지 않습니다.
+- 7개 모의 자동 검사를 통과했습니다. Quetta 실기기 설치, 화면 렌더링, 실제 계정의 적립·수령은 미검증입니다. 화면 잠금·절전·백그라운드 정지 시 동작이 중단될 수 있습니다.
+
+## PC용 확장 설치 및 업데이트
 
 1. 위 ZIP을 다운로드하고 **전체 압축을 해제**합니다.
 2. 웨일은 `whale://extensions`, 크롬은 `chrome://extensions`에서 개발자 모드를 켭니다.
